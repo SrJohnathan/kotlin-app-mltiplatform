@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="compose_ui-desktop-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/compose_ui/build/libs</output-path>
+    <root id="archive" name="compose_ui-desktop-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="hyper.compose_ui.desktopMain" />
+    </root>
+  </artifact>
+</component>
